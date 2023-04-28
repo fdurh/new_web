@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>My first independent HTML5 page</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1>Creating and styling a table</h1>
+    <h2>Table Tags</h2>
+    <table>
+      <tr>
+        <th>Tag</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>&lttable&gt</td>
+        <td>Table</td>
+        <td>Table element defining an html table, consisting of table cells inside rows and columns.</td>
+      </tr>
+      <tr>
+        <td>&ltthead&gt</td>
+        <td>Table Header</td>
+        <td>Header element used to group header content. Abbreviation also used: &ltth&gt </td>
+      </tr>
+      <tr>
+        <td>&lttbody&gt</td>
+        <td>Table Body</td>
+        <td>Body element used to group body content.</td>
+      </tr>
+      <tr>
+        <td>&lttr&gt</td>
+        <td>Table Row</td>
+        <td>Table row element defines a header cell.</td>
+      </tr>
+      <tr>
+        <td>&lttd&gt</td>
+        <td>Table Data</td>
+        <td>Table data defines a standard data cell.</td>
+      </tr>
+      <tr>
+        <td>&lttfoot&gt</td>
+        <td>Table Foot</td>
+        <td>Footer element used to group footer content.</td>
+      </tr>
+    </table>
+    <h2>Table Attributes</h2>
+    <table>
+      <tr>
+        <th>Attribute</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>&ltcolspan&gt</td>
+        <td>Column Span</td>
+        <td>Used to make a cell span over multiple columns.</td>
+      </tr>
+      <tr>
+        <td>&ltrowspan&gt</td>
+        <td>Row Span</td>
+        <td>Used to make a cell span over multiple rows.</td>
+      </tr>
+    </table>
+  </body>
+</html>
